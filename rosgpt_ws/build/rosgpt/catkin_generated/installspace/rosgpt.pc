@@ -1,0 +1,8 @@
+prefix=/home/airl010/projects/ros1-gpt/rosgpt_ws/install
+
+Name: rosgpt
+Description: Description of rosgpt
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

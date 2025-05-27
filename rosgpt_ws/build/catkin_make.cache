@@ -1,0 +1,2 @@
+rosgpt
+-DCATKIN_DEVEL_PREFIX=/home/airl010/projects/ros1-gpt/rosgpt_ws/devel -DCMAKE_INSTALL_PREFIX=/home/airl010/projects/ros1-gpt/rosgpt_ws/install -G Unix Makefiles
